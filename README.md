@@ -16,5 +16,11 @@ https://nodejs.org/en/ - Node
 https://uigradients.com/#ViceCity - Colour Gradient 
 https://fontawesome.com/icons/camera-retro?style=solid - Font Awesome Icons
 https://www.cufonfonts.com/zemin/collection/happy-birthday-fonts - More fonts
-https://cdnjs.com/libraries/semantic-ui - Semantic CSS Framework
+
 https://cdnjs.com/libraries/howler - sounds
+
+Semantic UI CSS Framework
+
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+```
