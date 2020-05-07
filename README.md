@@ -31,13 +31,30 @@ emojis
 ```
 https://emojipedia.org/symbols/ - 
 ```
+Node
 
-https://nodejs.org/en/ - Node
-https://uigradients.com/#ViceCity - Colour Gradient 
-https://fontawesome.com/icons/camera-retro?style=solid - Font Awesome Icons
-https://www.cufonfonts.com/zemin/collection/happy-birthday-fonts - More fonts
+```
+https://nodejs.org/en/ 
+```
+Colour Gradient 
+```
+https://uigradients.com/#ViceCity 
+```
+Font Awesome - Icons
 
-https://cdnjs.com/libraries/howler - sounds
+```
+https://fontawesome.com/icons/camera-retro?style=solid 
+```
+More fonts
+
+```
+https://www.cufonfonts.com/zemin/collection/happy-birthday-fonts 
+```
+Sounds
+
+```
+https://cdnjs.com/libraries/howler 
+```
 
 Semantic UI CSS Framework
 
